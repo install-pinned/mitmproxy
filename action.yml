@@ -1,0 +1,10 @@
+name: 'install-pinned/mitmproxy'
+description: 'Securely install the latest mitmproxy release from PyPI'
+branding:
+  icon: 'lock'
+  color: 'green'
+runs:
+  using: "composite"
+  steps:
+    - shell: bash
+      run: python3 -m pip install -r $GITHUB_ACTION_PATH/requirements.txt
