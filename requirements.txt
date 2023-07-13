@@ -443,9 +443,9 @@ werkzeug==2.3.6 ; python_version >= "3.9" and python_version < "4.0" \
 wsproto==1.2.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:ad565f26ecb92588a3e43bc3d96164de84cd9902482b130d0ddbaa9664a85065 \
     --hash=sha256:b9acddd652b585d75b20477888c56642fdade28bdfd3579aa24a4d2c037dd736
-zipp==3.16.0 ; python_version >= "3.9" and python_version < "3.10" \
-    --hash=sha256:1876cb065531855bbe83b6c489dcf69ecc28f1068d8e95959fe8bbc77774c941 \
-    --hash=sha256:5dadc3ad0a1f825fe42ce1bce0f2fc5a13af2e6b2d386af5b0ff295bc0a287d3
+zipp==3.16.1 ; python_version >= "3.9" and python_version < "3.10" \
+    --hash=sha256:0b37c326d826d5ca35f2b9685cd750292740774ef16190008b00a0227c256fe0 \
+    --hash=sha256:857b158da2cbf427b376da1c24fd11faecbac5a4ac7523c3607f8a01f94c2ec0
 zstandard==0.19.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:04c298d381a3b6274b0a8001f0da0ec7819d052ad9c3b0863fe8c7f154061f76 \
     --hash=sha256:0fde1c56ec118940974e726c2a27e5b54e71e16c6f81d0b4722112b91d2d9009 \
