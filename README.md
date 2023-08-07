@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install mitmproxy from PyPI
-        uses: install-pinned/mitmproxy@e3f7d32ee60c64a64dd5321abfc72ee9075417de  # 10.0.0
+        uses: install-pinned/mitmproxy@f7196ce065f31d00cb79b1f22b53e770c5387485  # 10.0.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
