@@ -276,17 +276,17 @@ markupsafe==2.1.3 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:f698de3fd0c4e6972b92290a45bd9b1536bffe8c6759c62471efaa8acb4c37bc \
     --hash=sha256:fec21693218efe39aa7f8599346e90c705afa52c5b31ae019b2e57e8f6542bb2 \
     --hash=sha256:ffcc3f7c66b5f5b7931a5aa68fc9cecc51e685ef90282f4a82f0f5e9b704ad11
-mitmproxy-macos==0.3.8 ; python_version >= "3.10" and python_version < "4.0" and sys_platform == "darwin" \
-    --hash=sha256:431041df1b22458e1091c2f1144db97e7203ddfc3b01aa0ac7d829b22bab54c4 \
-    --hash=sha256:6f53dec17f59805e12f61448f9636a51849ed8cd5d7a2c001d959dde8ab2e42b
-mitmproxy-rs==0.3.8 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:06a906e2fbc8a8ac1434bf0b7f4f6401975495151d35ef290cd2bb1380a71eea \
-    --hash=sha256:0c61df9e27d5149abd1a9940d47817421bba49ea7fa9ba5ea9c06a0af9be12da \
-    --hash=sha256:46a7faa91a632cdae1c613556577bf6b514a0e14a82d5e61bf80c61333ffbb05 \
-    --hash=sha256:7cb7c95ec15e25b078ec3b0e98a77449a46172528e9a43dc63c1f06a55c05535 \
-    --hash=sha256:83bc23bac9a7a5b8c1d9173482ffa670a9c04714109700847f9be4e2cbac760b
-mitmproxy-windows==0.3.8 ; python_version >= "3.10" and python_version < "4.0" and os_name == "nt" \
-    --hash=sha256:18554b3a9f8b5a939d9b5852c250e8ab5b6f8e305c041b36f6d0ce9f8dd0898c
+mitmproxy-macos==0.3.11 ; python_version >= "3.10" and python_version < "4.0" and sys_platform == "darwin" \
+    --hash=sha256:2a4ef01387c8413e79d123c1de08de6db443fe5a11a3d786833915823a120285 \
+    --hash=sha256:b521a0cd29ff85ec5ff26f5dee5fc0e221e0968c3904e3bce3cddcd930b0b5c7
+mitmproxy-rs==0.3.11 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:56ff6d7276bc0cd41f645ec0a25483a503d9fa6ee0f4638fee7a48dfbf5f6da8 \
+    --hash=sha256:5dddb1360dbfc659e13616ed62797ca6c7cfabdcc03674da75a2851c6044eecd \
+    --hash=sha256:6a18d5e4280f055ce62ab99605ba3ecb2f245e41d17fa466255c9d611ac61acc \
+    --hash=sha256:7c966c8e4752f9114544c270355a9f3a2a191579fbc837729ef280cf0b29327d \
+    --hash=sha256:956e38041439e956cb7b7b9b1a986a2d6983a58d38a38f4b2b41539cc1814dc3
+mitmproxy-windows==0.3.11 ; python_version >= "3.10" and python_version < "4.0" and os_name == "nt" \
+    --hash=sha256:6d381fe39ddb2c72aeb1c7ca9968c06046b2caab85534f6a45ba0a8c50afb74e
 mitmproxy==10.1.1 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:32472bd030e8d6e0393908be3be030cdc8f4e39d6064f77616c3ae3fc57da5ba
 msgpack==1.0.6 ; python_version >= "3.10" and python_version < "4.0" \
