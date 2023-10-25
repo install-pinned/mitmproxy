@@ -502,9 +502,9 @@ urwid-mitmproxy==2.1.2.1 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:be6238e587acb92bdd43b241af0a10dc23798e8cf3eddef834164eb637686cda \
     --hash=sha256:d2d536ad412022365b5e1974cde9029b86cfc30f3960ae073f959630f0c27c21 \
     --hash=sha256:d93bdc87cbb329cd262f8ada586e954a95ca4cc7249eca5b348b87f47ef1adb5
-werkzeug==3.0.0 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:3ffff4dcc32db52ef3cc94dff3000a3c2846890f3a5a51800a27b909c5e770f0 \
-    --hash=sha256:cbb2600f7eabe51dbc0502f58be0b3e1b96b893b05695ea2b35b43d4de2d9962
+werkzeug==3.0.1 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:507e811ecea72b18a404947aded4b3390e1db8f826b494d76550ef45bb3b1dcc \
+    --hash=sha256:90a285dc0e42ad56b34e696398b8122ee4c681833fb35b8334a095d82c56da10
 wsproto==1.2.0 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:ad565f26ecb92588a3e43bc3d96164de84cd9902482b130d0ddbaa9664a85065 \
     --hash=sha256:b9acddd652b585d75b20477888c56642fdade28bdfd3579aa24a4d2c037dd736
