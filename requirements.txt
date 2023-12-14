@@ -278,8 +278,8 @@ mitmproxy-rs==0.4.1 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:f5da094d204ccca4b76f5db25c69ee34f8ad1aa9ac5e14ed72b8a91a6b8bcddd
 mitmproxy-windows==0.4.1 ; python_version >= "3.10" and python_version < "4.0" and os_name == "nt" \
     --hash=sha256:1a9c8e024d1b2e5544cc81bfb95bf2e713260191e64523e1c5b3bef98ad960ab
-mitmproxy==10.1.5 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:24d78fe45ee30573ab2c57ab9f65d4be6bc45bbc322e36e9555bb898ee787ae8
+mitmproxy==10.1.6 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:ff620351c243419a5677940f405c868d2f4dcb6f410c5949444013f4bafdbc82
 msgpack==1.0.7 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:04ad6069c86e531682f9e1e71b71c1c3937d6014a7c3e9edd2aa81ad58842862 \
     --hash=sha256:0bfdd914e55e0d2c9e1526de210f6fe8ffe9705f2b1dfcc4aecc92a4cb4b533d \
