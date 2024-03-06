@@ -411,9 +411,9 @@ pylsqpack==0.3.18 ; python_version >= "3.10" and python_version < "4.0" \
 pyopenssl==23.3.0 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:6756834481d9ed5470f4a9393455154bc92fe7a64b7bc6ee2c804e78c52099b2 \
     --hash=sha256:6b2cba5cc46e822750ec3e5a81ee12819850b11303630d575e98108a079c2b12
-pyparsing==3.1.1 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:32c7c0b711493c72ff18a981d24f28aaf9c1fb7ed5e9667c9e84e3db623bdbfb \
-    --hash=sha256:ede28a1a32462f5a9705e07aea48001a08f7cf81a021585011deba701581a0db
+pyparsing==3.1.2 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:a1bac0ce561155ecc3ed78ca94d3c9378656ad4c94c1270de543f621420f94ad \
+    --hash=sha256:f9db75911801ed778fe61bb643079ff86601aca99fcae6345aa67292038fb742
 pyperclip==1.8.2 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:105254a8b04934f0bc84e9c24eb360a591aaf6535c9def5f29d92af107a9bf57
 ruamel-yaml-clib==0.2.8 ; platform_python_implementation == "CPython" and python_version < "3.13" and python_version >= "3.10" \
